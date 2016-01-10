@@ -26,4 +26,4 @@ or
 To link your DataBase:
 
 1. Go to server.js and uncomment all the lines that are commented.
-2. find "mongoose.connect", inside link your mongodb Database to connect it to your app.
+2. Find "mongoose.connect", inside link your mongodb Database to connect it to your app.
