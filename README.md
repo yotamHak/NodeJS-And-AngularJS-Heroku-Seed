@@ -24,4 +24,5 @@ or
 ## Documentation
 
 To link your database:
-Go to server.js and find "mongoose.connect" inside link your mongodb Database to connect it to your app
+
+Go to server.js and find "mongoose.connect", link your mongodb Database to connect it to your app.
