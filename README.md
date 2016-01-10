@@ -2,7 +2,7 @@
 
 A barebones Node.js with AngularJS and MongoDB app.
 
-This Application is meant to be uploaded and run on [Heroku](https://www.heroku.com/).
+This Application is meant to be deployed onto and run on [Heroku](https://www.heroku.com/).
 
 ## Running Locally
 
