@@ -1,4 +1,4 @@
-# my-barebone-app
+# My Barebone Application
 
 A barebones Node.js with AngularJS and MongoDB app.
 
