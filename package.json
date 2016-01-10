@@ -1,0 +1,33 @@
+{
+  "name": "my-web-skeleton",
+  "version": "0.1.5",
+  "author": "Yotam Hakim",
+  "description": "A nodejs webapp with angular and mongodb skeleton",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongoose": ">=4.1.11",
+	"body-parser": "1.13.1",
+    "express": "4.13.3"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yotamHak/myBareboneApp.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "angularjs",
+    "mongodb",
+	"mongoose",
+	"barebone",
+    "skeleton"
+  ],
+  "license": "MIT"
+}

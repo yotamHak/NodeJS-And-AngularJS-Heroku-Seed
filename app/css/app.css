@@ -1,0 +1,42 @@
+/*Write your CSS here*/
+
+/* Custom Navbar */
+#custom-bootstrap-menu .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 1);
+}
+#custom-bootstrap-menu {
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 1);
+    border-width: 0px;
+    border-radius: 2px;
+}
+#custom-bootstrap-menu .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(0, 0, 0, 1);
+}
+#custom-bootstrap-menu .navbar-nav>li>a:hover,
+#custom-bootstrap-menu .navbar-nav>li>a:focus {
+    color: rgba(186, 186, 186, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu .navbar-nav>.active>a,
+#custom-bootstrap-menu .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu .navbar-toggle {
+    border-color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu .navbar-toggle:hover,
+#custom-bootstrap-menu .navbar-toggle:focus {
+    background-color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu .navbar-toggle .icon-bar {
+    background-color: rgba(255, 255, 255, 1);
+}
+#custom-bootstrap-menu .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu .navbar-toggle:focus .icon-bar {
+    background-color: #000000;
+}
