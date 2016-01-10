@@ -8,6 +8,10 @@ This Application is meant to be uploaded and run on [Heroku](https://www.heroku.
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
+1. Git bash at the directory.
+2. Type "npm install"
+3. Type "heroku local"
+
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Heroku
