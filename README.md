@@ -4,6 +4,8 @@ A barebones Node.js with AngularJS and MongoDB app.
 
 This Application is meant to be deployed onto and run on [Heroku](https://www.heroku.com/).
 
+Check it out live [Here](https://nodejs-angularjs-seed.herokuapp.com/)
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
