@@ -25,9 +25,10 @@
     "express",
     "angularjs",
     "mongodb",
-	"mongoose",
-	"barebone",
-    "skeleton"
+    "barebone",
+    "skeleton",
+    "mongoose",
+    "bootstrap"
   ],
   "license": "MIT"
 }
