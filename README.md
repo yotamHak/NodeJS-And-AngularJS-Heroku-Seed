@@ -1,4 +1,4 @@
-# My Barebone Application
+# My NodeJS-And-AngularJS-Heroku-Seed Application
 
 A barebones Node.js with AngularJS and MongoDB app.
 
@@ -27,4 +27,4 @@ or
 
 ## Documentation
 
-Check out [The Wiki](https://github.com/yotamHak/myBareboneApp/wiki) to get started and connect your Database.
+Check out [The Wiki](https://github.com/yotamHak/NodeJS-And-AngularJS-Heroku-Seed/wiki) to get started and connect your Database.
