@@ -1,7 +1,7 @@
 {
   "name": "My Barebone App",
   "description": "A barebones Node.js, AngularJS and MongoDB app using Express 4",
-  "repository": "https://github.com/yotamHak/myBareboneApp.git",
+  "repository": "https://github.com/yotamHak/NodeJS-And-AngularJS-Heroku-Seed.git",
   "keywords": ["nodejs", "express", "angularjs", "mongodb"],
   "image": "heroku/nodejs"
 }
