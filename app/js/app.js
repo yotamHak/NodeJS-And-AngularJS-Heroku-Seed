@@ -9,12 +9,12 @@ var myApp = angular.module('myApp', ['ngRoute'])
         $routeProvider.when('/view1',
             {
                 templateUrl: 'templates/view1.html',
-                controller: 'view1Controller'
+                controller: 'View1Controller'
             });
         $routeProvider.when('/view2',
             {
                 templateUrl: 'templates/view2.html',
-                controller: 'view2Controller'
+                controller: 'View2Controller'
             });
         $routeProvider.otherwise({redirectTo: '/main'});
         $locationProvider.html5Mode(true);
